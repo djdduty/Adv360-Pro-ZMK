@@ -40,9 +40,9 @@
 
         default_layer {
             bindings = <
- &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5            &tog 1                                                                 &mo 3  &kp N6            &kp N7     &kp N8    &kp N9      &kp N0  &kp SEMICOLON
+ &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5            &tog 1                                                                 &mo 3  &kp N6            &kp N7     &kp N8    &kp N9      &kp N0     &kp DELETE
    &kp TAB      &kp X     &kp F     &kp D      &kp P   &kp Q             &none                                                                 &none   &kp J  &kp SINGLE_QUOTE      &kp O     &kp U  &kp PERIOD       &kp BSLH
-   &kp ESC      &kp N     &kp S     &kp T      &kp C   &kp Y             &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none   &kp M             &kp H      &kp A     &kp E       &kp I        &kp SQT
+   &kp ESC      &kp N     &kp S     &kp T      &kp C   &kp Y             &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none   &kp M             &kp H      &kp A     &kp E       &kp I  &kp SEMICOLON
  &kp LSHFT      &kp B     &kp V     &kp K      &kp G   &kp W                               &kp HOME                  &kp PG_UP                         &kp Z             &kp L  &kp MINUS  &kp FSLH   &kp COMMA      &kp RSHFT
      &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                     &kp R   &kp BSPC   &kp END                  &kp PG_DN  &kp ENTER  &kp SPACE                    &kp UP   &kp DOWN  &kp LBKT    &kp RBKT          &mo 2
             >;
